@@ -4,13 +4,14 @@ body{
     margin: 0;
 }
 h1{
-    font-size: 50px;
+    font-size: 60px;
 }
 .C{
     color: rgb(255, 196, 0);
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .S1{
     width: 50%;
@@ -31,4 +32,12 @@ section{
 .top{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.h2{
+    font-size: 20px;
+}
+.AP{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
 }
